@@ -38,3 +38,4 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```bash
 PYTHONPATH=. python3 -m unittest discover -s tests
 ```
+
